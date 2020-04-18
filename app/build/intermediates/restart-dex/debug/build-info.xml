@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="8148972399527"
+    token="-6015216546915132232" >
+
+    <task
+        name="javac"
+        duration="1381" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="115" />
+    <task
+        name="verifier"
+        duration="40" />
+
+    <artifact
+        location="/Users/sahajarora/Desktop/Freelancer/UrDriver-Driver/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+
+    <build timestamp="7383494311514" >
+        <artifact
+            location="/Users/sahajarora/Desktop/Freelancer/UrDriver-Driver/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="8148972399527" >
+        <artifact
+            location="/Users/sahajarora/Desktop/Freelancer/UrDriver-Driver/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="278045605540209" >
+        <artifact
+            location="/Users/sahajarora/Desktop/Freelancer/UrDriver-Driver/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,2 @@
+CHANGED,/Users/sahajarora/Desktop/Freelancer/UrDriver-Driver/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sahajarora/urdriver/urdriver_driver/MapFragment$override.class
+CHANGED,/Users/sahajarora/Desktop/Freelancer/UrDriver-Driver/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
